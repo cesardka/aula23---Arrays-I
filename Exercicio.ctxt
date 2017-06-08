@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=array
+comment0.target=void\ exibeDoubleArray(double[])
+comment1.params=array
+comment1.target=double[]\ armazenaDoubleArray(double[])
+comment2.params=array
+comment2.target=int\ retornaNegativo(int[])
+comment3.params=array\ x
+comment3.target=int\ apareceuOuNao(int[],\ int)
+comment4.params=array
+comment4.target=boolean[]\ maquinaDaVerdade(int[])
+comment5.params=array
+comment5.target=int\ maiorValor(int[])
+comment6.params=
+comment6.target=int[]\ lerArray()
+comment7.params=array
+comment7.target=int[]\ listaInteiros(int[])
+numComments=8
