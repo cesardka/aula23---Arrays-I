@@ -1,12 +1,6 @@
-----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
-------------------------------------------------------------------------
-
-TITULO DO PROJETO:
-OBJETIVO DO PROJETO:
-VERSÃO ou DATA:
-COMO INICIAR O PROJETO:
-AUTORES:
-INSTRUÇÕES PARA O USUÁRIO:
+﻿TITULO DO PROJETO: aula23 - Arrays I
+OBJETIVO DO PROJETO: quem sabe um dia ajudar alguém que precise
+VERSÃO ou DATA: 2017-6-6 @ 22:34
+COMO INICIAR O PROJETO: Abra no BlueJ e boa sorte.
+AUTORES: César Hoffmann
+INSTRUÇÕES PARA O USUÁRIO: use por sua conta e risco
